@@ -12,34 +12,12 @@ Feel free to use this code to replicate our results or adapt it for your own res
 
 ## Brain Triangulations
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-<div>
-<img src="plots/N10.png" width="250"/>
-<p align="center">N10</p>
-</div>
-<div>
-<img src="plots/N25.png" width="250"/>
-<p align="center">N25</p>
-</div>
-<div>
-<img src="plots/N50.png" width="250"/>
-<p align="center">N50</p>
-</div>
-</div>
+N10 | N25 | N50
+:-------------------------:|:-------------------------:|:-------------------------:
+![](plots/N10.png) | ![](plots/N25.png) | ![](plots/N50.png)
 
 ## Simultaneous Confidence Corridor Estimation
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-<div>
-<img src="plots/LOW005.png" width="250"/>
-<p align="center">Lower Interval</p>
-</div>
-<div>
-<img src="plots/EMF_AD.png" width="250"/>
-<p align="center">Mean Function</p>
-</div>
-<div>
-<img src="plots/UPP005.png" width="250"/>
-<p align="center">Upper Interval</p>
-</div>
-</div>
+Lower Interval | Mean Function | Upper Interval
+:-------------------------:|:-------------------------:|:-------------------------:
+![](plots/LOW005.png) | ![](plots/EMF_AD.png) | ![](plots/UPP005.png)
